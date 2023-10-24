@@ -1,6 +1,8 @@
 # ysqidong
 原神，启动！
 
+## [看看效果](https://klxf.github.io/ysqidong/)
+
 ## 如何使用？
 修改 [index.html](https://github.com/klxf/ysqidong/blob/master/index.html#L106)，将目标网址替换为你的重定向目标即可。
 
